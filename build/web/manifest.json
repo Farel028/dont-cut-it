@@ -1,0 +1,19 @@
+{
+    "name": "DON'T CUT IT - Tropical Rainforest Lane Defense",
+    "short_name": "DON'T CUT IT",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#07140B",
+    "theme_color": "#2E7D32",
+    "description": "An educational lane-defense game about protecting Indonesia's tropical rainforest.",
+    "orientation": "landscape",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "500x500",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
