@@ -5,7 +5,7 @@
   <p>Game edukasi lane-defense berbasis Flutter tentang perlindungan hutan hujan tropis Indonesia.</p>
 </div>
 
-![Main menu DON'T CUT IT](assets/images/play.png)
+![Main menu DON'T CUT IT](assets/images/main-menu.jpeg)
 
 ## Tentang game
 
@@ -64,7 +64,7 @@ Panduan visual juga tersedia dari tombol How to Play di dalam game.
 
 Book menampilkan seluruh delapan flora. Pemain dapat membuka detail nama Indonesia, nama ilmiah, status konservasi, deskripsi, HP, dan kemampuan. Tombol Equip/Unequip mengatur deck aktif dengan kapasitas maksimal lima tanaman.
 
-![Tampilan Book](assets/images/book.png)
+![Tampilan Book](assets/images/ensiklopedia.jpeg)
 
 ## Teknologi
 
